@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mihaimoga
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python and Visual C++
-- 💞️ I’m looking to collaborate on my pet open source projects.
+- 👋 Hi, I’m @mihaimoga!
+- 👀 I’m interested in Computer Science.
+- 🌱 I’m currently learning Python and Microsoft Visual C++.
+- 💞️ I’m looking to collaborate on my open source projects.
 - 📫 How to reach me at contact@emvs.site
 
 <!---
