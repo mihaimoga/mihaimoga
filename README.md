@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mihaimoga
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python and Visual C++
-- 💞️ I’m looking to collaborate on my pet open source projects.
-- 📫 How to reach me at contact@emvs.site
+- 👋 Hi, I’m @mihaimoga!
+- 👀 I’m interested in Computer Science.
+- 🌱 I’m currently learning Python and Microsoft Visual C++.
+- 💞️ I’m looking to collaborate on my open-source projects.
+- 📫 How to reach me at stefan-mihai@moga.doctor
 
 <!---
 mihaimoga/mihaimoga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
